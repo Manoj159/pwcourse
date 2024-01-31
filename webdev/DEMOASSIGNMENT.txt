@@ -1,0 +1,17 @@
+ANSWER 1:- 
+HTML stands for HyperText Markup Language. It's the standard markup language for creating web pages and web applications. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document. It consists of a series of elements, which you use to enclose, or wrap, different parts of the content to make it appear a certain way, or act a certain way. These elements are represented by tags, which are surrounded by angle brackets: <tagname>. HTML tags most commonly come in pairs, with an opening tag and a closing tag, though some tags are self-closing.
+
+
+ANSWWER 2:- 
+CSS stands for Cascading Style Sheets. It's a style sheet language used for describing the presentation of a document written in HTML or XML (including XML dialects such as SVG, MathML, etc.). CSS describes how elements should be rendered on screen, in print, or perhaps on other media. It allows web designers to control the layout, colors, fonts, and other visual aspects of multiple web pages all at once. With CSS, you can separate the content of an HTML document from its presentation, making it easier to maintain and update the design of a website.
+
+
+ANSWER 3:- 
+Front-end development focuses on the user interface and user experience of a website or web application.Front-end developers use languages such as HTML, CSS, and JavaScript to create the layout, design, and interactivity of the website or application while Back-end development focuses on the server-side of the web application or website. Back-end developers deal with databases, server-side scripting, and the logic that enables the website or application to perform tasks such as processing user input, managing user sessions, and communicating with other servers or databases. Back-end developers often use programming languages such as Python, Ruby, PHP, Java, or JavaScript (with frameworks like Node.js) to build the server-side logic.
+
+
+ANSWER 4:- 
+JavaScript is a high-level programming language that is primarily used to create dynamic and interactive content on websites. It is one of the core technologies of the World Wide Web, along with HTML and CSS. JavaScript allows developers to add functionality to web pages, such as validating form data, creating animations, updating content dynamically without reloading the page, and interacting with web browsers through the Document Object Model (DOM).
+
+ANSWER 5:- 
+Responsive web design is an approach to web design that aims to create web pages that provide an optimal viewing experience across a wide range of devices and screen sizes, from desktop computers to mobile phones and tablets. The goal of responsive design is to ensure that the layout and content of a website adapt fluidly to accommodate the screen size and orientation of the device being used to access it.
